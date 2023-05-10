@@ -95,6 +95,8 @@ iOSInjectionProject/
 .AppleDouble
 .LSOverride
 
+.idea/
+
 tmp/
 *_old
 *_backup
