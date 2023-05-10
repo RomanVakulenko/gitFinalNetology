@@ -4,5 +4,5 @@
 2. Second item
 3. Third item
 
-![Colors in iOS!](https://github.com/RomanVakulenko/gitFinalNetology/raw/master/README.md "Colors")
+![Colors in iOS!](https://github.com/RomanVakulenko/gitFinalNetology/raw/master/image/Colors.png "Colors")
 
