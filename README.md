@@ -4,4 +4,4 @@
 2. Second item
 3. Third item
 
-![Colors in iOS!](https://github.com/RomanVakulenko/gitFinalNetology/raw/master/[image](https://github.com/RomanVakulenko/gitFinalNetology/blob/master/Colors.png)/Colors.png "Colors")
+![Colors in iOS!](https://github.com/RomanVakulenko/gitFinalNetology/raw/master//Users/vakula_48/Documents/iOS/_нетология/2. git/Курсовой по git/img/Colors.png "Colors")
